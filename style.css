@@ -66,7 +66,7 @@
 .search-input{
     width: 100%;
     font-size: 1rem;
-    border: ;
+    border:#007185 ;
 }
 .search-icon{
     width: 45px;
@@ -250,8 +250,10 @@ ul a{
 
 .pages{
     padding-top: 25px;
+
 }
 
 .copyright{
     padding-top: 5px;
+
 }
